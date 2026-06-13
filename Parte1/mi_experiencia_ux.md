@@ -1,6 +1,8 @@
 # Mi experiencia UX - Pablo de la Torre Roldán
 Durante el curso de Diseño de Interfaces de Usuario he desarrollado una comprensión profunda de los principios fundamentales del área UI/UX. Gracias a las seis actividades propuestas en teoría he tenido la oportunidad de poner en práctica herramientas y metodologías que deben utilizarse en el trabajo real de un diseñador o programador de interfaces. Aquí está la descripción de cada una de estas actividades, enfocando en mis aportaciones concretas y conclusiones que saqué de ellas.
 
+---
+
 ## Actividad 1 - Etnografía:
 La primera actividad consistió en adoptar la perspectiva de un observador externo (el personaje GURB) para identificar situaciones reales de conflicto entre personas y sistemas informáticos. Mi observación se centró en una mujer mayor intentando validar su tarjeta de autobús al subir al mismo.
  
@@ -9,6 +11,8 @@ El conflicto observado fue el siguiente: la tarjeta no era leída de forma insta
 La conclusión más relevante fue que el problema no era el usuario, sino el diseño del sistema de feedback. La ausencia de un indicador claro genera una sobrecarga innecesaria de la Memoria de Trabajo (STM): el usuario no puede retener simultáneamente si la acción tuvo efecto mientras gestiona el entorno (la cola, el conductor, el movimiento del autobús). Según el modelo estudiado en clase, la Memoria de Trabajo tiene una capacidad muy limitada de 7 ± 2 ítems y una decaída rápida. Cuando el diseño no proporciona feedback inmediato, el usuario consume esa capacidad tratando de descubrir el estado del sistema en lugar de avanzar en su tarea. 
  
 Esta actividad me enseñó a observar sin juzgar al usuario y a cuestionar el diseño como primera hipótesis ante cualquier dificultad de interacción. La mirada etnográfica reveló información que un test de usabilidad no siempre captaría.
+
+---
 
 ## Actividad 2 - Moodboard:
 En esta actividad trabajamos en grupo para crear un moodboard para un proyecto de marca ficticia. El resultado fue Rocket Nation, una tienda especializada en explosivos de alta tecnología y artillería táctica, un concepto deliberadamente provocador que nos permitió explorar un lenguaje visual extremo y coherente.
@@ -21,12 +25,16 @@ El eslogan "Problemas grandes requieren soluciones explosivas" es un ejemplo de 
  
 El moodboard ha sido una experiencia valiosa para entender cómo todas las decisiones visuales deben responder a un sistema coherente y a un usuario concreto, no a preferencias estéticas personales.
 
+---
+
 ## Actividad 3 - Eye tracking:
 Esta actividad introdujo una técnica de investigación UX más avanzada: el eye tracking, implementado mediante la herramienta Gazemapping. En grupo analizamos el comportamiento visual de nosotros mismos como usuarios sobre las páginas web de tres cadenas de comida rápida: McDonald's, Burger King y Smash Hiro.
  
 Definimos los siguientes POIs: logos, llamados a la acción (CTA) (encontrar la carta, ver los locales disponibles en nuestra zona…) y redes sociales y contacto. A partir de los heatmaps generados observamos patrones claros: los usuarios fijaban la vista en imágenes de producto y CTAs bien diferenciados, mientras que elementos secundarios pasaban prácticamente desapercibidos si no estaban situados en zonas de alta atención visual.
  
 La conclusión más relevante conecta directamente con el Modelo de Procesador Humano estudiado en clase: la memoria sensorial capta los estímulos visuales de forma masiva pero solo los que superan el umbral de atención acceden a la Memoria de Trabajo (STM). El diseño visual determina qué información pasa ese filtro antes de que el usuario tome ninguna decisión consciente. Esto refuerza la importancia del layout y los principios de percepción visual (agrupación, contraste, figura-fondo) en el diseño UI: no basta con incluir la información, hay que situarla donde el ojo tiende a ir naturalmente. 
+
+---
 
 ## Actividad 4 - Usabilidad con Heurio:
 En esta actividad aplicamos una evaluación real sobre la página web de la Universidad de Murcia, utilizando Heurio como extensión de Chrome. El objetivo era identificar, clasificar y justificar problemas de usabilidad reales.
@@ -37,6 +45,8 @@ También detectamos problemas de consistencia entre secciones: distintas página
  
 El uso de Heurio fue especialmente útil porque permite anclar los problemas directamente sobre el elemento visual de la página, facilitando la comunicación de los hallazgos. Esta actividad me proporcionó experiencia directa en la evaluación experta de interfaces, un método fundamental en la práctica profesional de UX cuando no es posible realizar pruebas con usuarios reales.
 
+---
+
 ## Actividad 5 - Accesibilidad:
 Esta actividad abordó un concepto esencial del diseño de interfaces que muchas veces se ignora: la accesibilidad. Evaluamos la web del Ayuntamiento de Granada desde dos perspectivas: la inspección técnica con herramientas automáticas y la simulación de discapacidades mediante Funkify.
  
@@ -46,12 +56,16 @@ Luego probamos la web activando distintos perfiles de discapacidad visual y mot�
  
 La valoración del grupo fue que la web requeriría una refactorización completa para alcanzar un nivel de accesibilidad aceptable. Esta conclusión pone de relieve una brecha real entre las obligaciones legales de accesibilidad de las instituciones públicas y su cumplimiento efectivo. Incorporar los principios POUR (Perceptible, Operable, Comprensible, Robusto) desde las primeras fases del diseño es mucho más eficiente que corregir los problemas a posteriori.
 
+---
+
 ## Actividad 6 - Portfolio Neo Brutalista:
 La última actividad fue crear un portfolio personal con estilo Neo Brutalism, aplicando de forma simultánea los conocimientos adquiridos sobre identidad visual, jerarquía, tipografía, componentes interactivos y experiencia de usuario.
  
 En el desarrollo del portfolio tomé decisiones de diseño concretas y justificadas. La estructura se organizó en secciones bien definidas siguiendo un flujo narrativo pensado para que el visitante comprendiera el contenido sin necesidad de leerlo todo, apoyándose en el reconocimiento visual más que en el recuerdo (reduciendo así la dependencia de la memoria a corto plazo). Los botones incorporan estados de hover y press aplicando los principios de microinteracción: el feedback visual inmediato ante la acción del usuario reduce la incertidumbre y refuerza la sensación de control, lo que conecta con la heurística de visibilidad del estado del sistema ya trabajada desde la primera actividad.
  
 La elección del estilo también implicó trabajar con design tokens: reglas fijas de espaciado, tipografía y color que garantizan la coherencia visual a lo largo de todo el portfolio, evitando la inconsistencia que detectamos como problema grave en la actividad de usabilidad (Actividad 4). Sin embargo, aunque en el estilo neobrutalista predomine el negro sobre blanco, intenté innovar e hice el estilo de la página en modo oscuro.
+
+---
 
 ## Trabajo de prácticas:
 Para el trabajo de prácticas desarrollamos un gastrobar tematizado en el anime Doraemon llamado Dorayakiya, donde la atracción principal es un servicio de robots camareros. A lo largo de cinco fases iterativas, creé junto a mi compañero de prácticas soluciones que transformaron una idea puramente recreativa en un producto digital usable.
