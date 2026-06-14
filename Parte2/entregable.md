@@ -67,3 +67,12 @@ Algunos colores y fuentes de la página para pedir online cambian. Esto es un pr
 
 ### Usability Report
 [Enlace al usability report](usability_report.pdf)
+
+---
+
+### Análisis de Accesibilidad
+La página tiene una valoración del 56% en el test de accesibilidad. Aunque la web tenga fuentes grandes para los usuarios con baja visión y localizar elementos como el blog sea fácil, el sitio presenta fallos críticos que hacen que la experiencia de usuario decaiga.
+
+Las conclusiones más importantes han sido el incumplimiento de las pautas WCAG (ellos mismos los enumeran en su página de [declaración de accesibilidad](https://www.nuestrashuertas.com/declaracion-accesibilidad/)) y el bajo contraste de los párrafos.
+ 
+ [Enlace a la evaluación de accesibilidad](evaluacion_accesibilidad.pdf)
