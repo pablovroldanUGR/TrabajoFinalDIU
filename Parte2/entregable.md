@@ -99,3 +99,25 @@ Dicha plataforma podría permitir:
 - Conocer la historia e identidad de los productores participantes. 
 - Recibir recordatorios de las próximas fechas.
 ![alt_text](imgs/ScopeCanvas.png)
+
+
+## Boceto propuesto para la web (Wireframe)
+Como ya hemos visto en la propuesta de valor, la web debe tener una página inicial que muestre información relevante sobre el Ecomercado (próxima fecha, imágenes de las anteriores ediciones…), además de las páginas de cada una de las ediciones, identidad de cada productor participante y subscripción a recordatorios. Este ha sido el diseño del wireframe de cada una de las páginas:
+
+Página principal: Buscamos tener a mano las opciones principales (suscribirse al recordatorio y conocer a los productores), además de informar rápidamente de cuándo es la siguiente edición.
+![alt_text](imgs/principal.png)
+
+Página productores: En ella se puede hacer click a cada uno de los productores para entrar en una página más detallada sobre los datos del productor seleccionado. Se utiliza el botón de filtros para filtrar los productores por sus características.
+![alt_text](imgs/productores.png)
+
+Página Suscríbete: Permiten que los usuarios se suscriban a nuevas ediciones de ECOMERCADO UGR. Consta de un formulario básico de nombre, apellidos y email, además de la cuenta atrás al evento. Cuando el usuario se suscribe, le llega un correo de recordatorio X tiempo antes de que inicie el evento. 
+![alt_text](imgs/suscribirse.png)
+
+---
+
+# Conclusiones y análisis con las prácticas
+Para este estudio sería sumamente interesante aplicar las técnicas de prototipado (mockup) que hicimos en la práctica 3, para terminar con una aplicación implementada y semi-funcional. 
+
+Además, podríamos haber hecho un user research plan antes de comenzar con el análisis de Nuestra Huerta, para tener un poco más de información de contexto antes de empezar a trabajar.
+
+El Competitor Analysis de las prácticas fue mucho más directo y extenso que el análisis de Nuestra Huerta. Aunque también ha servido para identificar los principales errores de nuestro competidor (header my grande, inconsistencias entre páginas, problemas de rendimiento…).
