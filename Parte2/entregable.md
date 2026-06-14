@@ -1,8 +1,6 @@
 # Caso de estudio: Propuesta de diseño ECO MERCADO UGR
 Pablo de la Torre Roldán
 
----
-
 # Análisis de Nuestras Huertas
 ## Elección de la página web a estudiar
 He decidido elegir [Huerta Madrid](https://www.nuestrashuertas.com/) como página web para estudiar. Vamos a analizar el diseño, usabilidad, accesibilidad, adaptación a diferentes dispositivos y la experiencia de usuario. 
