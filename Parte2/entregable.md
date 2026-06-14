@@ -48,20 +48,20 @@ Algunos colores y fuentes de la página para pedir online cambian. Esto es un pr
 	- Recomendación: Reducir el logo a un tamaño estándar de header e incorporar en el espacio liberado un titular claro, los productos de la semana y un CTA hacia la tienda.
 	
 #### Problema 2: Página de tienda sin productos visibles al entrar
-	- La página de pedidos online reproduce el mismo error: lo primero visible es un botón de carrito de tamaño excesivo y tres menús desplegables de filtrado, también sobredimensionados. Los productos no son visibles sin hacer scroll. Dos pantallas consecutivas sin contenido relevante acumulan frustración antes de que el usuario haya visto un solo producto.
-	- Recomendación: Reducir el tamaño del botón de carrito y los filtros, y mostrar los productos directamente al entrar. El carrito debe ser accesible en todo momento (header fijo o elemento flotante), no solo desde la parte superior.
+- La página de pedidos online reproduce el mismo error: lo primero visible es un botón de carrito de tamaño excesivo y tres menús desplegables de filtrado, también sobredimensionados. Los productos no son visibles sin hacer scroll. Dos pantallas consecutivas sin contenido relevante acumulan frustración antes de que el usuario haya visto un solo producto.
+- Recomendación: Reducir el tamaño del botón de carrito y los filtros, y mostrar los productos directamente al entrar. El carrito debe ser accesible en todo momento (header fijo o elemento flotante), no solo desde la parte superior.
 
 #### Problema 3: Ausencia de CTA claro en la página principal
-	- La página principal no comunica ninguna acción prioritaria. Si el objetivo del sitio es que el usuario realice un pedido, debe existir un botón prominente que lleve a la tienda, acompañado de información de contexto (productos disponibles esta semana, estado de la tienda).
-		- Recomendación: Incluir un CTA principal en la hero section del tipo "Ver productos de esta semana" y mostrar una muestra de productos en la página principal.
+- La página principal no comunica ninguna acción prioritaria. Si el objetivo del sitio es que el usuario realice un pedido, debe existir un botón prominente que lleve a la tienda, acompañado de información de contexto (productos disponibles esta semana, estado de la tienda).
+- Recomendación: Incluir un CTA principal en la hero section del tipo "Ver productos de esta semana" y mostrar una muestra de productos en la página principal.
 
 #### Problema 4: Inconsistencia visual entre página principal y tienda
-	- El cambio de la página principal a la tienda online supone una ruptura visual perceptible: desaparece el Navbar principal (sustituido por un menú de tipo botón), se pierde el color del header, desaparecen las imágenes y el diseño se vuelve considerablemente más plano. Algunos colores y fuentes también varían. El usuario puede percibir que ha abandonado el sitio, rompiendo los modelos mentales construidos durante la navegación inicial.
-	- Recomendación: Unificar el sistema de diseño entre ambas páginas: mismo navbar, mismo header, misma paleta y mismas fuentes.
+- El cambio de la página principal a la tienda online supone una ruptura visual perceptible: desaparece el Navbar principal (sustituido por un menú de tipo botón), se pierde el color del header, desaparecen las imágenes y el diseño se vuelve considerablemente más plano. Algunos colores y fuentes también varían. El usuario puede percibir que ha abandonado el sitio, rompiendo los modelos mentales construidos durante la navegación inicial.
+- Recomendación: Unificar el sistema de diseño entre ambas páginas: mismo navbar, mismo header, misma paleta y mismas fuentes.
 
 #### Problema 5: Contraste insuficiente en texto de párrafos
-	- El texto de los párrafos se presenta en color gris sobre fondo claro, lo que puede suponer un problema para usuarios con baja visión o en condiciones de luz ambiental alta. La elección tipográfica es acertada (Fuse Sans para cuerpo de texto), pero el color no cumple los ratios de contraste recomendados por las WCAG (mínimo 4.5:1 para texto normal).
-	- Recomendación: Oscurecer el color del texto de párrafo para garantizar un contraste mínimo de 4.5:1.
+- El texto de los párrafos se presenta en color gris sobre fondo claro, lo que puede suponer un problema para usuarios con baja visión o en condiciones de luz ambiental alta. La elección tipográfica es acertada (Fuse Sans para cuerpo de texto), pero el color no cumple los ratios de contraste recomendados por las WCAG (mínimo 4.5:1 para texto normal).
+- Recomendación: Oscurecer el color del texto de párrafo para garantizar un contraste mínimo de 4.5:1.
 	
 --- 
 
