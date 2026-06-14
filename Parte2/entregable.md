@@ -103,7 +103,7 @@ Dicha plataforma podría permitir:
 Como ya hemos visto en la propuesta de valor, la web debe tener una página inicial que muestre información relevante sobre el Ecomercado (próxima fecha, imágenes de las anteriores ediciones…), además de las páginas de cada una de las ediciones, identidad de cada productor participante y subscripción a recordatorios. Este ha sido el diseño del wireframe de cada una de las páginas:
 
 Página principal: Buscamos tener a mano las opciones principales (suscribirse al recordatorio y conocer a los productores), además de informar rápidamente de cuándo es la siguiente edición.
-![alt_text](imgs/principal.png)
+![alt_text](imgs/inicio.png)
 
 Página productores: En ella se puede hacer click a cada uno de los productores para entrar en una página más detallada sobre los datos del productor seleccionado. Se utiliza el botón de filtros para filtrar los productores por sus características.
 ![alt_text](imgs/productores.png)
