@@ -44,8 +44,8 @@ Algunos colores y fuentes de la página para pedir online cambian. Esto es un pr
 
 ### Análisis de usabilidad
 ####	Problema 1: Header sobredimensionado en página principal
-	- El logo ocupa aproximadamente dos tercios del header, dejando sin contenido útil la zona más valiosa de la página. El usuario no recibe ninguna información sobre qué vende el sitio ni qué acción debe realizar. El usuario llega con preguntas concretas que la página no responde en los primeros segundos críticos de decisión.
-	- Recomendación: Reducir el logo a un tamaño estándar de header e incorporar en el espacio liberado un titular claro, los productos de la semana y un CTA hacia la tienda.
+- El logo ocupa aproximadamente dos tercios del header, dejando sin contenido útil la zona más valiosa de la página. El usuario no recibe ninguna información sobre qué vende el sitio ni qué acción debe realizar. El usuario llega con preguntas concretas que la página no responde en los primeros segundos críticos de decisión.
+- Recomendación: Reducir el logo a un tamaño estándar de header e incorporar en el espacio liberado un titular claro, los productos de la semana y un CTA hacia la tienda.
 	
 #### Problema 2: Página de tienda sin productos visibles al entrar
 - La página de pedidos online reproduce el mismo error: lo primero visible es un botón de carrito de tamaño excesivo y tres menús desplegables de filtrado, también sobredimensionados. Los productos no son visibles sin hacer scroll. Dos pantallas consecutivas sin contenido relevante acumulan frustración antes de que el usuario haya visto un solo producto.
